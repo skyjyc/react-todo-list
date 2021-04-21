@@ -56,7 +56,7 @@ function App(props) {
     return (
         <div className="App">
           <h3>
-            TodoList
+            TodoList JYC
           </h3>
           <SearchBar searchVal={searchVal} 
             handleInputChange={handleInputChange} 
